@@ -1,3 +1,5 @@
 # JS
 
-JavaScriptを学ぼう
+DMMWEBCAMPコンテンツ
+【JavaScriptを学ぼう】
+
